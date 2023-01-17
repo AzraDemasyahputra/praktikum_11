@@ -24,3 +24,5 @@ Setelah itu, kodingan menggunakan library pandas untuk membuat dataframe dari li
 ```
 
 ![azra4](https://user-images.githubusercontent.com/115337669/212947123-ab14e40d-57b3-4fad-a54d-8766a887e901.png)
+
+# OUTPUT
